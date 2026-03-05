@@ -102,7 +102,7 @@ public class ProjectFormPanel extends JPanel {
         String recordTime = getCurrentDateTime();
 
         String record = String.format(
-                "Project Name: %s | Team Leader : %s | Team Size : %s | Project Type : %s | Start Date : %s | Record Time : %s%n",
+                "=== Project Entry ===\nProject Name   : [%s]\nTeam Leader    : [%s]\nTeam Size      : [%s]\nProject Type   : [%s]\nStart Date     : [%s]\nRecord Time    : [ %s %n] \n====================\n\n",
                 projectName, teamLeader, teamSize, projectType, startDate, recordTime
         );
 

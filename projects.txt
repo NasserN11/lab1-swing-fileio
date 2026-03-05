@@ -1,0 +1,30 @@
+=== Project Entry ===
+Project Name   : [WhatsApp]
+Team Leader    : [Peter]
+Team Size      : [10+]
+Project Type   : [Mobile]
+Start Date     : [01/01/1999]
+Record Time    : [ 05/03/2026 15:55:53 
+] 
+====================
+
+=== Project Entry ===
+Project Name   : [Instagram]
+Team Leader    : [Nasser]
+Team Size      : [10+]
+Project Type   : [Mobile]
+Start Date     : [01/01/2000]
+Record Time    : [ 05/03/2026 15:56:11 
+] 
+====================
+
+=== Project Entry ===
+Project Name   : [Notes]
+Team Leader    : [Mark]
+Team Size      : [7-10]
+Project Type   : [Desktop]
+Start Date     : [01/01/2026]
+Record Time    : [ 05/03/2026 15:56:56 
+] 
+====================
+
